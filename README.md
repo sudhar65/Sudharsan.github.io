@@ -17,5 +17,5 @@ Hi, I'm Sudharsan
 - 🔹 Number Guessing Game (C)
 
 ## 📫 Contact
-- Email: yourmail@gmail.com
-- GitHub: https://github.com/yourusername
+- Email: selvamjansi3@gmail.com
+- GitHub: https://github.com/sudhar65
